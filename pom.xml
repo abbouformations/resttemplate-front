@@ -62,9 +62,7 @@
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
 		</dependency>
-		<!-- Pour que les RestController puissent produire le format XML, la dépendance 
-			suivante est nécessaire -->
-	</dependencies>
+		</dependencies>
 	<build>
 		<plugins>
 			<plugin>
